@@ -3,7 +3,7 @@ Role Name
 
 roles-nginx
 
-Requirements
+Description
 ------------
 
 Role installs nginx and configures default port base on the value of **hostport** variable. 
