@@ -1,7 +1,7 @@
 Role Name
 =========
 
-roles-nginx
+role_nginx
 
 Description
 ------------
@@ -25,7 +25,7 @@ How to use role
 
   - hosts: servers
     roles:
-        - { role: roles-nginx }
+        - { role: role_nginx }
 
 License
 -------
