@@ -2,4 +2,4 @@
 - hosts: nginx
   remote_user: administrator
   roles:
-    - role-nginx
+    - role_nginx
